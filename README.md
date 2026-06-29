@@ -14,5 +14,5 @@ int main(void)
 If you see that, I sleep. (My english is bed (or bad?));
 
 ```bash
-[miraly@bluetooth ~]\$ shutdown -h now
+/home/miraly $ shutdown -h now
 ```
